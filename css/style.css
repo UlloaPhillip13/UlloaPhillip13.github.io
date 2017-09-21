@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Arial, Helvetica,sans-serif;
   padding:0;
   margin:0;
-  background-color:#00aee8;
+  background-color:#00e5ff;
 }
 
 /* Global */
@@ -19,7 +19,7 @@ ul{
 
 .button_1{
   height:38px;
-  background:#e8491d;
+  background:#05ff0d;
   border:0;
   padding-left: 20px;
   padding-right:20px;
@@ -29,14 +29,14 @@ ul{
 .dark{
   padding:15px;
   background:#35424a;
-  color:#ffffff;
+  color:#fffff;
   margin-top:10px;
   margin-bottom:10px;
 }
 
 /* Header **/
 header{
-  background:#35424a;
+  background:#35424d;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -70,7 +70,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#8e51a0;
   font-weight:bold;
 }
 
@@ -165,8 +165,8 @@ ul#services li{
 footer{
   padding:20px;
   margin-top:20px;
-  color:#ffffff;
-  background-color:#e8491d;
+  color:#ffff05;
+  background-color:#c909f4;
   text-align: center;
 }
 
